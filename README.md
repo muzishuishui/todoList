@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo-list
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# todoList
+基于vue的todolist的demo
+>>>>>>> 3e47690f5c71da22ec20810f8d30cc72c2cca57d
